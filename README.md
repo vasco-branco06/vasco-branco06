@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-ipam-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-ipam-dark-v2.svg">
   <img alt="Vasco Branco. Marketing + AI, SEO/GEO." src="assets/banner-ipam-light.svg" width="100%">
 </picture>
 
@@ -15,7 +15,7 @@ I am working towards a GTM Engineer role, which combines marketing, data and AI 
 
 <a href="https://github.com/vasco-branco06/geo-check">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-geo-check-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-geo-check-dark-v2.svg">
     <img alt="geo-check: checks whether a website is reachable and readable by AI crawlers, and scores it." src="assets/card-geo-check-light.svg" width="840">
   </picture>
 </a>
