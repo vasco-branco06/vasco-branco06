@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Vasco Branco. Marketing + AI, SEO/GEO." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-ipam-dark.svg">
+  <img alt="Vasco Branco. Marketing + AI, SEO/GEO." src="assets/banner-ipam-light.svg" width="100%">
 </picture>
 
 I'm Vasco, a Marketing Management student at IPAM Porto, graduating in July 2027.
