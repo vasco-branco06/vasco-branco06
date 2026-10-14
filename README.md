@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Vasco Branco. Marketing + AI, GTM Engineering, SEO/GEO." src="assets/banner-light.svg" width="100%">
+  <img alt="Vasco Branco. Marketing + AI, SEO/GEO." src="assets/banner-light.svg" width="100%">
 </picture>
 
 I'm Vasco, a Marketing Management student at IPAM Porto, graduating in July 2027.
 I build open tools for marketing, GTM and AI.
-My goal is a GTM Engineer role, where marketing, data and AI automation meet.
+I am working towards a GTM Engineer role, which combines marketing, data and AI automation.
 
 ## What I'm building
 
@@ -23,7 +23,7 @@ My goal is a GTM Engineer role, where marketing, data and AI automation meet.
 ## Other projects
 
 - [excel-para-word](https://github.com/vasco-branco06/excel-para-word): a Claude Code skill that turns an Excel file into a Word report, with charts and a factual description of each one.
-- [rasto-publico](https://github.com/vasco-branco06/rasto-publico): collects a company's public footprint, such as pricing history, subdomains, SEC filings and sitemap, into citable files. No API keys.
+- [rasto-publico](https://github.com/vasco-branco06/rasto-publico): collects a company's public footprint, such as pricing history, subdomains, SEC filings and sitemap, into citable files. It needs no API keys.
 - [biblioteca-de-prompts](https://github.com/vasco-branco06/biblioteca-de-prompts): 92 prompt templates that Claude picks and fills on its own from a plain-language request.
 
 ## Toolbox
