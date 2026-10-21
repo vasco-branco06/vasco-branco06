@@ -22,11 +22,9 @@ I am working towards a GTM Engineer role, which combines marketing, data and AI 
 
 ## Other projects
 
-- [excel-para-word](https://github.com/vasco-branco06/excel-para-word): a Claude Code skill that turns an Excel file into a Word report, with charts and a factual description of each one.
-- [rasto-publico](https://github.com/vasco-branco06/rasto-publico): collects a company's public footprint, such as pricing history, subdomains, SEC filings and sitemap, into citable files. It needs no API keys.
-- [biblioteca-de-prompts](https://github.com/vasco-branco06/biblioteca-de-prompts): 92 prompt templates that Claude picks and fills on its own from a plain-language request.
 - [ITE](https://github.com/vasco-branco06/ITE): a Claude Code plugin that turns a vague idea into a spec folder through an interview, with requirements, decisions, a plan, schemas and tests, all linked by ID.
 - [remotion-reel-skill](https://github.com/vasco-branco06/remotion-reel-skill): a Claude Code skill that edits vertical reels with Remotion, with captions, layouts, screen recordings and audio checks.
+- [LawAgents](https://github.com/LawAgents): an organisation with consolidated Portuguese legislation in markdown for AI agents to cite at article level, and a Claude Code plugin to query it citing the official source.
 
 ## Toolbox
 
